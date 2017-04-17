@@ -1,3 +1,5 @@
-# paths-through-poverty
+# Paths Through Poverty
 
-## An playable post exploring the statistics faced by low-income males in the United States
+A playable post exploring the statistics faced by low-income males in the United States.
+
+Inspired by Nicky Case's [Schools and Prisons simulator](http://ncase.me/prison-wip/model.html)
